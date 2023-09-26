@@ -1,4 +1,12 @@
-# My Final Project from Web Develop Orientation Course in July 2023.
+# My project from July 2023.
 
-I didn't learn how to use Git back in July 2023, I uploaded this file later in September 2023 after I learned how to use Git.
-Therefore, only one git commit is added when I uploaded the files.
+## First OF ALL
+This is an older project I have done before learning how to use git.
+I have learned HTML and CSS and created this project.
+Therefore, I uploaded this project with one Git commit on GitHub in September 2023 after I learned how to use Git.
+
+## If you are curious about improved version of my web page
+
+Please visit another project [here](https://github.com/chizuru-nina-yamauchi/About-Me-HTML).
+This is the project I kept working further after I learned about Git. 
+This will bring you to my another GitHub page.
